@@ -1,0 +1,1034 @@
+{
+    "version": "1.0",
+    "generatedAt": "2026-02-01T10:41:26+00:00",
+    "source": "ToeAndHeel Database",
+    "count": 27,
+    "competitions": [
+        {
+            "id": 8025,
+            "title": "Westpark January Highland Dancing Competition",
+            "description": null,
+            "venueName": "Boness Academy",
+            "startDate": "2026-01-31",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Boness Academy, Boness",
+                "venue": "Boness Academy",
+                "address": "Gauze Road",
+                "city": "Boness",
+                "stateProvince": null,
+                "postalCode": "EH51 9AS",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
+                }
+            },
+            "organiser": {
+                "name": "Claire Hammel",
+                "email": "westparkmonthly@hotmail.co.uk",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_westpark_jan.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8025.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8019,
+            "title": "Tayfirth February Competition",
+            "description": null,
+            "venueName": "Blyth Hall",
+            "startDate": "2026-02-07",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Blyth Hall, Newport on Tay",
+                "venue": "Blyth Hall",
+                "address": "Scott St",
+                "city": "Newport on Tay",
+                "stateProvince": null,
+                "postalCode": "DD5 4DQ",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.4396210000000024820110411383211612701416015625,
+                    "longitude": -2.940939999999999887592139202752150595188140869140625
+                }
+            },
+            "organiser": {
+                "name": "donna mitchelson",
+                "email": "donnammitchelson@yahoo.co.uk",
+                "phone": "07840733528"
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_tayfirth_february.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8019.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8033,
+            "title": "Tayside Highland Dancing Association Monikie",
+            "description": null,
+            "venueName": "Monikie Memorial Hall",
+            "startDate": "2026-02-14",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Monikie Memorial Hall, Monikie",
+                "venue": "Monikie Memorial Hall",
+                "address": null,
+                "city": "Monikie",
+                "stateProvince": null,
+                "postalCode": "EH51 9AS",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.52842299999999653437043889425694942474365234375,
+                    "longitude": -2.809613000000000138101086122333072125911712646484375
+                }
+            },
+            "organiser": {
+                "name": "Deryck Mitchelson",
+                "email": "thdaentries@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_monikie_feb.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8033.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8026,
+            "title": "Westpark Febauray Highland Dancing Competition",
+            "description": null,
+            "venueName": "Boness Academy",
+            "startDate": "2026-02-28",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Boness Academy, Boness",
+                "venue": "Boness Academy",
+                "address": "Gauze Road",
+                "city": "Boness",
+                "stateProvince": null,
+                "postalCode": "EH51 9AS",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
+                }
+            },
+            "organiser": {
+                "name": "Claire Hammel",
+                "email": "westparkmonthly@hotmail.co.uk",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_westpark_feb.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8026.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8034,
+            "title": "Tayside Highland Dancing Association Monikie",
+            "description": null,
+            "venueName": "Monikie Memorial Hall",
+            "startDate": "2026-03-07",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Monikie Memorial Hall, Monikie",
+                "venue": "Monikie Memorial Hall",
+                "address": null,
+                "city": "Monikie",
+                "stateProvince": null,
+                "postalCode": "EH51 9AS",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.52842299999999653437043889425694942474365234375,
+                    "longitude": -2.809613000000000138101086122333072125911712646484375
+                }
+            },
+            "organiser": {
+                "name": "Deryck Mitchelson",
+                "email": "thdaentries@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_monikie_mar.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8034.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8039,
+            "title": "Grampian Region Championship and Competition",
+            "description": null,
+            "venueName": "Bettridge Centre",
+            "startDate": "2026-03-22",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Bettridge Centre, Newtonhill",
+                "venue": "Bettridge Centre",
+                "address": null,
+                "city": "Newtonhill",
+                "stateProvince": null,
+                "postalCode": "AB39 3UL",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.52842299999999653437043889425694942474365234375,
+                    "longitude": -2.809613000000000138101086122333072125911712646484375
+                }
+            },
+            "organiser": {
+                "name": "Celeste Walker",
+                "email": "kincardinefestivals@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://toeandheel.com",
+                "registration": "https://toeandheel.com/enter_online/2026_grc_mar.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8039.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8020,
+            "title": "Tayfirth March Competition",
+            "description": null,
+            "venueName": "Blyth Hall",
+            "startDate": "2026-03-28",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Blyth Hall, Newport on Tay",
+                "venue": "Blyth Hall",
+                "address": "Scott St",
+                "city": "Newport on Tay",
+                "stateProvince": null,
+                "postalCode": "DD5 4DQ",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.4396210000000024820110411383211612701416015625,
+                    "longitude": -2.940939999999999887592139202752150595188140869140625
+                }
+            },
+            "organiser": {
+                "name": "donna mitchelson",
+                "email": "donnammitchelson@yahoo.co.uk",
+                "phone": "07840733528"
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_tayfirth_march.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8020.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8027,
+            "title": "Westpark March Highland Dancing Competition",
+            "description": null,
+            "venueName": "Boness Academy",
+            "startDate": "2026-03-28",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Boness Academy, Boness",
+                "venue": "Boness Academy",
+                "address": "Gauze Road",
+                "city": "Boness",
+                "stateProvince": null,
+                "postalCode": "EH51 9AS",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
+                }
+            },
+            "organiser": {
+                "name": "Claire Hammel",
+                "email": "westparkmonthly@hotmail.co.uk",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_westpark_march.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8027.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8040,
+            "title": "European Championship and Competition",
+            "description": null,
+            "venueName": "International School, Aberdeen",
+            "startDate": "2026-04-04",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "International School, Aberdeen, Aberdeen",
+                "venue": "International School, Aberdeen",
+                "address": null,
+                "city": "Aberdeen",
+                "stateProvince": null,
+                "postalCode": null,
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "organiser": {
+                "name": "Deryck Mitchelson",
+                "email": "thdaentries@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://toeandheel.com",
+                "registration": "https://toeandheel.com/enter_online/2026_european_april.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8040.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8028,
+            "title": "Westpark April Highland Dancing Competition",
+            "description": null,
+            "venueName": "Boness Academy",
+            "startDate": "2026-04-25",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Boness Academy, Boness",
+                "venue": "Boness Academy",
+                "address": "Gauze Road",
+                "city": "Boness",
+                "stateProvince": null,
+                "postalCode": "EH51 9AS",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
+                }
+            },
+            "organiser": {
+                "name": "Claire Hammel",
+                "email": "westparkmonthly@hotmail.co.uk",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_westpark_april.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8028.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8035,
+            "title": "Tayside Highland Dancing Association Monikie",
+            "description": null,
+            "venueName": "Monikie Memorial Hall",
+            "startDate": "2026-05-16",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Monikie Memorial Hall, Monikie",
+                "venue": "Monikie Memorial Hall",
+                "address": null,
+                "city": "Monikie",
+                "stateProvince": null,
+                "postalCode": "EH51 9AS",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.52842299999999653437043889425694942474365234375,
+                    "longitude": -2.809613000000000138101086122333072125911712646484375
+                }
+            },
+            "organiser": {
+                "name": "Deryck Mitchelson",
+                "email": "thdaentries@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_monikie_may.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8035.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8021,
+            "title": "Logan Mitchelson memorial competition",
+            "description": null,
+            "venueName": "Blyth Hall",
+            "startDate": "2026-05-23",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Blyth Hall, Newport on Tay",
+                "venue": "Blyth Hall",
+                "address": "Scott St",
+                "city": "Newport on Tay",
+                "stateProvince": null,
+                "postalCode": "DD5 4DQ",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.4396210000000024820110411383211612701416015625,
+                    "longitude": -2.940939999999999887592139202752150595188140869140625
+                }
+            },
+            "organiser": {
+                "name": "donna mitchelson",
+                "email": "donnammitchelson@yahoo.co.uk",
+                "phone": "07840733528"
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_tayfirth_logan.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8021.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8029,
+            "title": "Westpark May Highland Dancing Competition",
+            "description": null,
+            "venueName": "Boness Academy",
+            "startDate": "2026-05-30",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Boness Academy, Boness",
+                "venue": "Boness Academy",
+                "address": "Gauze Road",
+                "city": "Boness",
+                "stateProvince": null,
+                "postalCode": "EH51 9AS",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
+                }
+            },
+            "organiser": {
+                "name": "Claire Hammel",
+                "email": "westparkmonthly@hotmail.co.uk",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_westpark_may.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8029.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8041,
+            "title": "NE Scotland Championship and Competition",
+            "description": null,
+            "venueName": "Leisure Centre, Montrose",
+            "startDate": "2026-06-28",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Leisure Centre, Montrose, Montrose",
+                "venue": "Leisure Centre, Montrose",
+                "address": null,
+                "city": "Montrose",
+                "stateProvince": null,
+                "postalCode": null,
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "organiser": {
+                "name": "Deryck Mitchelson",
+                "email": "thdaentries@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://toeandheel.com",
+                "registration": "https://toeandheel.com/enter_online/2026_nes_june.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8041.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8022,
+            "title": "Tayfirth July Competition",
+            "description": null,
+            "venueName": "Blyth Hall",
+            "startDate": "2026-07-24",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Blyth Hall, Newport on Tay",
+                "venue": "Blyth Hall",
+                "address": "Scott St",
+                "city": "Newport on Tay",
+                "stateProvince": null,
+                "postalCode": "DD5 4DQ",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.4396210000000024820110411383211612701416015625,
+                    "longitude": -2.940939999999999887592139202752150595188140869140625
+                }
+            },
+            "organiser": {
+                "name": "donna mitchelson",
+                "email": "donnammitchelson@yahoo.co.uk",
+                "phone": "07840733528"
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_tayfirth_july.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8022.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8042,
+            "title": "Newtonmore Highland Games",
+            "description": null,
+            "venueName": "Newtonmore",
+            "startDate": "2026-08-01",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Newtonmore, Newtonmore",
+                "venue": "Newtonmore",
+                "address": null,
+                "city": "Newtonmore",
+                "stateProvince": null,
+                "postalCode": null,
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "organiser": {
+                "name": "Deryck Mitchelson",
+                "email": "thdaentries@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://toeandheel.com",
+                "registration": "https://toeandheel.com/enter_online/2026_aug_newtonmore.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8042.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8043,
+            "title": "Bute Highland Games",
+            "description": null,
+            "venueName": "Rothesay",
+            "startDate": "2026-08-22",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Rothesay, Rothesay",
+                "venue": "Rothesay",
+                "address": null,
+                "city": "Rothesay",
+                "stateProvince": null,
+                "postalCode": null,
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "organiser": {
+                "name": "Deryck Mitchelson",
+                "email": "thdaentries@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://toeandheel.com",
+                "registration": "https://toeandheel.com/enter_online/2026_aug_bute.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8043.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8036,
+            "title": "Tayside Highland Dancing Association Monikie",
+            "description": null,
+            "venueName": "Monikie Memorial Hall",
+            "startDate": "2026-09-12",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Monikie Memorial Hall, Monikie",
+                "venue": "Monikie Memorial Hall",
+                "address": null,
+                "city": "Monikie",
+                "stateProvince": null,
+                "postalCode": "EH51 9AS",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.52842299999999653437043889425694942474365234375,
+                    "longitude": -2.809613000000000138101086122333072125911712646484375
+                }
+            },
+            "organiser": {
+                "name": "Deryck Mitchelson",
+                "email": "thdaentries@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_monikie_sep.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8036.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8030,
+            "title": "Westpark September Highland Dancing Competition",
+            "description": null,
+            "venueName": "Boness Academy",
+            "startDate": "2026-09-26",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Boness Academy, Boness",
+                "venue": "Boness Academy",
+                "address": "Gauze Road",
+                "city": "Boness",
+                "stateProvince": null,
+                "postalCode": "EH51 9AS",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
+                }
+            },
+            "organiser": {
+                "name": "Claire Hammel",
+                "email": "westparkmonthly@hotmail.co.uk",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_westpark_sep.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8030.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8044,
+            "title": "Granite City Championship",
+            "description": null,
+            "venueName": "International School, Aberdeen",
+            "startDate": "2026-09-27",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "International School, Aberdeen, Aberdeen",
+                "venue": "International School, Aberdeen",
+                "address": null,
+                "city": "Aberdeen",
+                "stateProvince": null,
+                "postalCode": null,
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "organiser": {
+                "name": "Deryck Mitchelson",
+                "email": "thdaentries@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://toeandheel.com",
+                "registration": "https://toeandheel.com/enter_online/2026_gcc_sep.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8044.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8037,
+            "title": "Tayside Highland Dancing Association Monikie",
+            "description": null,
+            "venueName": "Monikie Memorial Hall",
+            "startDate": "2026-10-17",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Monikie Memorial Hall, Monikie",
+                "venue": "Monikie Memorial Hall",
+                "address": null,
+                "city": "Monikie",
+                "stateProvince": null,
+                "postalCode": "EH51 9AS",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.52842299999999653437043889425694942474365234375,
+                    "longitude": -2.809613000000000138101086122333072125911712646484375
+                }
+            },
+            "organiser": {
+                "name": "Deryck Mitchelson",
+                "email": "thdaentries@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_monikie_oct.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8037.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8023,
+            "title": "Tayfirth October Competition",
+            "description": null,
+            "venueName": "Blyth Hall",
+            "startDate": "2026-10-18",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Blyth Hall, Newport on Tay",
+                "venue": "Blyth Hall",
+                "address": "Scott St",
+                "city": "Newport on Tay",
+                "stateProvince": null,
+                "postalCode": "DD5 4DQ",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.4396210000000024820110411383211612701416015625,
+                    "longitude": -2.940939999999999887592139202752150595188140869140625
+                }
+            },
+            "organiser": {
+                "name": "donna mitchelson",
+                "email": "donnammitchelson@yahoo.co.uk",
+                "phone": "07840733528"
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_tayfirth_october.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8023.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8031,
+            "title": "Westpark October Highland Dancing Competition",
+            "description": null,
+            "venueName": "Boness Academy",
+            "startDate": "2026-10-31",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Boness Academy, Boness",
+                "venue": "Boness Academy",
+                "address": "Gauze Road",
+                "city": "Boness",
+                "stateProvince": null,
+                "postalCode": "EH51 9AS",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
+                }
+            },
+            "organiser": {
+                "name": "Claire Hammel",
+                "email": "westparkmonthly@hotmail.co.uk",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_westpark_oct.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8031.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8024,
+            "title": "Tayfirth November Competition",
+            "description": null,
+            "venueName": "Blyth Hall",
+            "startDate": "2026-11-21",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Blyth Hall, Newport on Tay",
+                "venue": "Blyth Hall",
+                "address": "Scott St",
+                "city": "Newport on Tay",
+                "stateProvince": null,
+                "postalCode": "DD5 4DQ",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.4396210000000024820110411383211612701416015625,
+                    "longitude": -2.940939999999999887592139202752150595188140869140625
+                }
+            },
+            "organiser": {
+                "name": "donna mitchelson",
+                "email": "donnammitchelson@yahoo.co.uk",
+                "phone": "07840733528"
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_tayfirth_november.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8024.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8032,
+            "title": "Westpark November Highland Dancing Competition",
+            "description": null,
+            "venueName": "Boness Academy",
+            "startDate": "2026-11-28",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Boness Academy, Boness",
+                "venue": "Boness Academy",
+                "address": "Gauze Road",
+                "city": "Boness",
+                "stateProvince": null,
+                "postalCode": "EH51 9AS",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
+                }
+            },
+            "organiser": {
+                "name": "Claire Hammel",
+                "email": "westparkmonthly@hotmail.co.uk",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_westpark_nov.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8032.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8038,
+            "title": "Tayside Highland Dancing Association Monikie",
+            "description": null,
+            "venueName": "Monikie Memorial Hall",
+            "startDate": "2026-12-12",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Monikie Memorial Hall, Monikie",
+                "venue": "Monikie Memorial Hall",
+                "address": null,
+                "city": "Monikie",
+                "stateProvince": null,
+                "postalCode": "EH51 9AS",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.52842299999999653437043889425694942474365234375,
+                    "longitude": -2.809613000000000138101086122333072125911712646484375
+                }
+            },
+            "organiser": {
+                "name": "Deryck Mitchelson",
+                "email": "thdaentries@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_monikie_dec.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8038.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 7999,
+            "title": "Westpark November Highland Dancing Competition",
+            "description": null,
+            "venueName": "Boness Academy",
+            "startDate": "2099-11-30",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Boness Academy, Boness",
+                "venue": "Boness Academy",
+                "address": "Gauze Road",
+                "city": "Boness",
+                "stateProvince": null,
+                "postalCode": "EH51 9AS",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
+                }
+            },
+            "organiser": {
+                "name": "Claire Hammel",
+                "email": "westparkmonthly@hotmail.co.uk",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2025_westpark_oct.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/7999.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        }
+    ]
+}
