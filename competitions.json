@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "generatedAt": "2026-02-01T15:00:02+00:00",
+    "generatedAt": "2026-02-01T15:16:43+00:00",
     "source": "ToeAndHeel Database",
     "count": 27,
     "competitions": [
@@ -22,8 +22,8 @@
                 "postalCode": "EH51 9AS",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.009892,
-                    "longitude": -3.59821
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
                 }
             },
             "organiser": {
@@ -60,8 +60,8 @@
                 "postalCode": "DD5 4DQ",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.439621,
-                    "longitude": -2.94094
+                    "latitude": 56.4396210000000024820110411383211612701416015625,
+                    "longitude": -2.940939999999999887592139202752150595188140869140625
                 }
             },
             "organiser": {
@@ -98,8 +98,8 @@
                 "postalCode": "EH51 9AS",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.528423,
-                    "longitude": -2.809613
+                    "latitude": 56.52842299999999653437043889425694942474365234375,
+                    "longitude": -2.809613000000000138101086122333072125911712646484375
                 }
             },
             "organiser": {
@@ -136,8 +136,8 @@
                 "postalCode": "EH51 9AS",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.009892,
-                    "longitude": -3.59821
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
                 }
             },
             "organiser": {
@@ -174,8 +174,8 @@
                 "postalCode": "EH51 9AS",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.528423,
-                    "longitude": -2.809613
+                    "latitude": 56.52842299999999653437043889425694942474365234375,
+                    "longitude": -2.809613000000000138101086122333072125911712646484375
                 }
             },
             "organiser": {
@@ -212,8 +212,8 @@
                 "postalCode": "AB39 3UL",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.528423,
-                    "longitude": -2.809613
+                    "latitude": 56.52842299999999653437043889425694942474365234375,
+                    "longitude": -2.809613000000000138101086122333072125911712646484375
                 }
             },
             "organiser": {
@@ -250,8 +250,8 @@
                 "postalCode": "DD5 4DQ",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.439621,
-                    "longitude": -2.94094
+                    "latitude": 56.4396210000000024820110411383211612701416015625,
+                    "longitude": -2.940939999999999887592139202752150595188140869140625
                 }
             },
             "organiser": {
@@ -288,8 +288,8 @@
                 "postalCode": "EH51 9AS",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.009892,
-                    "longitude": -3.59821
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
                 }
             },
             "organiser": {
@@ -364,8 +364,8 @@
                 "postalCode": "EH51 9AS",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.009892,
-                    "longitude": -3.59821
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
                 }
             },
             "organiser": {
@@ -402,8 +402,8 @@
                 "postalCode": "EH51 9AS",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.528423,
-                    "longitude": -2.809613
+                    "latitude": 56.52842299999999653437043889425694942474365234375,
+                    "longitude": -2.809613000000000138101086122333072125911712646484375
                 }
             },
             "organiser": {
@@ -440,8 +440,8 @@
                 "postalCode": "DD5 4DQ",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.439621,
-                    "longitude": -2.94094
+                    "latitude": 56.4396210000000024820110411383211612701416015625,
+                    "longitude": -2.940939999999999887592139202752150595188140869140625
                 }
             },
             "organiser": {
@@ -478,8 +478,8 @@
                 "postalCode": "EH51 9AS",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.009892,
-                    "longitude": -3.59821
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
                 }
             },
             "organiser": {
@@ -554,8 +554,8 @@
                 "postalCode": "DD5 4DQ",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.439621,
-                    "longitude": -2.94094
+                    "latitude": 56.4396210000000024820110411383211612701416015625,
+                    "longitude": -2.940939999999999887592139202752150595188140869140625
                 }
             },
             "organiser": {
@@ -668,8 +668,8 @@
                 "postalCode": "EH51 9AS",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.528423,
-                    "longitude": -2.809613
+                    "latitude": 56.52842299999999653437043889425694942474365234375,
+                    "longitude": -2.809613000000000138101086122333072125911712646484375
                 }
             },
             "organiser": {
@@ -706,8 +706,8 @@
                 "postalCode": "EH51 9AS",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.009892,
-                    "longitude": -3.59821
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
                 }
             },
             "organiser": {
@@ -782,8 +782,8 @@
                 "postalCode": "EH51 9AS",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.528423,
-                    "longitude": -2.809613
+                    "latitude": 56.52842299999999653437043889425694942474365234375,
+                    "longitude": -2.809613000000000138101086122333072125911712646484375
                 }
             },
             "organiser": {
@@ -820,8 +820,8 @@
                 "postalCode": "DD5 4DQ",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.439621,
-                    "longitude": -2.94094
+                    "latitude": 56.4396210000000024820110411383211612701416015625,
+                    "longitude": -2.940939999999999887592139202752150595188140869140625
                 }
             },
             "organiser": {
@@ -858,8 +858,8 @@
                 "postalCode": "EH51 9AS",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.009892,
-                    "longitude": -3.59821
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
                 }
             },
             "organiser": {
@@ -896,8 +896,8 @@
                 "postalCode": "DD5 4DQ",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.439621,
-                    "longitude": -2.94094
+                    "latitude": 56.4396210000000024820110411383211612701416015625,
+                    "longitude": -2.940939999999999887592139202752150595188140869140625
                 }
             },
             "organiser": {
@@ -934,8 +934,8 @@
                 "postalCode": "EH51 9AS",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.009892,
-                    "longitude": -3.59821
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
                 }
             },
             "organiser": {
@@ -972,8 +972,8 @@
                 "postalCode": "EH51 9AS",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.528423,
-                    "longitude": -2.809613
+                    "latitude": 56.52842299999999653437043889425694942474365234375,
+                    "longitude": -2.809613000000000138101086122333072125911712646484375
                 }
             },
             "organiser": {
@@ -1010,8 +1010,8 @@
                 "postalCode": "EH51 9AS",
                 "country": "United Kingdom",
                 "coordinates": {
-                    "latitude": 56.009892,
-                    "longitude": -3.59821
+                    "latitude": 56.00989200000000067802830017171800136566162109375,
+                    "longitude": -3.5982099999999999084820956340990960597991943359375
                 }
             },
             "organiser": {
