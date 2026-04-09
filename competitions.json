@@ -1,8 +1,8 @@
 {
     "version": "1.0",
-    "generatedAt": "2026-04-09T08:00:02+00:00",
+    "generatedAt": "2026-04-09T09:00:03+00:00",
     "source": "ToeAndHeel Database",
-    "count": 27,
+    "count": 29,
     "competitions": [
         {
             "id": 8025,
@@ -499,6 +499,44 @@
             "source": "ToeAndHeel Database"
         },
         {
+            "id": 8046,
+            "title": "Alyth Show",
+            "description": null,
+            "venueName": "Boglesfield,  Essendy Road, PH10 6QU",
+            "startDate": "2026-06-13",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Boglesfield,  Essendy Road, PH10 6QU, Alyth",
+                "venue": "Boglesfield,  Essendy Road, PH10 6QU",
+                "address": null,
+                "city": "Alyth",
+                "stateProvince": null,
+                "postalCode": null,
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "organiser": {
+                "name": "Deryck Mitchelson",
+                "email": "thdaentries@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://toeandheel.com",
+                "registration": "https://toeandheel.com/enter_online/2026_alyth_june.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8046.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
             "id": 8041,
             "title": "NE Scotland Championship and Competition",
             "description": null,
@@ -529,6 +567,44 @@
                 "website": "https://toeandheel.com",
                 "registration": "https://toeandheel.com/enter_online/2026_nes_june.php",
                 "entryForm": "https://www.toeandheel.com/entry_forms/8041.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8047,
+            "title": "Kirriemuir Show",
+            "description": null,
+            "venueName": "East Muirhead of Logie Kirriemuir DD8 5PG",
+            "startDate": "2026-07-18",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "East Muirhead of Logie Kirriemuir DD8 5PG, Alyth",
+                "venue": "East Muirhead of Logie Kirriemuir DD8 5PG",
+                "address": null,
+                "city": "Alyth",
+                "stateProvince": null,
+                "postalCode": null,
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "organiser": {
+                "name": "Deryck Mitchelson",
+                "email": "thdaentries@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://toeandheel.com",
+                "registration": "https://toeandheel.com/enter_online/2027_kirrie_july.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8047.pdf"
             },
             "eventType": "competition",
             "isOnline": false,
