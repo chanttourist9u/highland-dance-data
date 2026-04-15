@@ -1,8 +1,8 @@
 {
     "version": "1.0",
-    "generatedAt": "2026-04-15T14:00:03+00:00",
+    "generatedAt": "2026-04-15T15:00:03+00:00",
     "source": "ToeAndHeel Database",
-    "count": 29,
+    "count": 30,
     "competitions": [
         {
             "id": 8025,
@@ -529,6 +529,44 @@
                 "website": "https://toeandheel.com",
                 "registration": "https://toeandheel.com/enter_online/2026_alyth_june.php",
                 "entryForm": "https://www.toeandheel.com/entry_forms/8046.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8048,
+            "title": "Doune and Dunblane Show",
+            "description": null,
+            "venueName": "Keir Mains Dunblane",
+            "startDate": "2026-06-13",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Keir Mains Dunblane, Dunblane",
+                "venue": "Keir Mains Dunblane",
+                "address": null,
+                "city": "Dunblane",
+                "stateProvince": null,
+                "postalCode": null,
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "organiser": {
+                "name": "Deryck Mitchelson",
+                "email": "thdaentries@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://toeandheel.com",
+                "registration": "https://toeandheel.com/enter_online/2026_dunblane_july.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8048.pdf"
             },
             "eventType": "competition",
             "isOnline": false,
