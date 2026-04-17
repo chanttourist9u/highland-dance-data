@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "generatedAt": "2026-04-17T09:00:02+00:00",
+    "generatedAt": "2026-04-17T10:00:03+00:00",
     "source": "ToeAndHeel Database",
     "count": 30,
     "competitions": [
@@ -613,6 +613,44 @@
             "source": "ToeAndHeel Database"
         },
         {
+            "id": 8022,
+            "title": "Tayfirth July Competition",
+            "description": null,
+            "venueName": "Blyth Hall",
+            "startDate": "2026-07-04",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Blyth Hall, Newport on Tay",
+                "venue": "Blyth Hall",
+                "address": "Scott St",
+                "city": "Newport on Tay",
+                "stateProvince": null,
+                "postalCode": "DD5 4DQ",
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": 56.439621,
+                    "longitude": -2.94094
+                }
+            },
+            "organiser": {
+                "name": "donna mitchelson",
+                "email": "donnammitchelson@yahoo.co.uk",
+                "phone": "07840733528"
+            },
+            "urls": {
+                "website": "https://www.toeandheel.com",
+                "registration": "https://www.toeandheel.com/enter_online/2026_tayfirth_july.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8022.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
             "id": 8047,
             "title": "Kirriemuir Show",
             "description": null,
@@ -643,44 +681,6 @@
                 "website": "https://toeandheel.com",
                 "registration": "https://toeandheel.com/enter_online/2027_kirrie_july.php",
                 "entryForm": "https://www.toeandheel.com/entry_forms/8047.pdf"
-            },
-            "eventType": "competition",
-            "isOnline": false,
-            "isFeatured": true,
-            "tier": 1,
-            "source": "ToeAndHeel Database"
-        },
-        {
-            "id": 8022,
-            "title": "Tayfirth July Competition",
-            "description": null,
-            "venueName": "Blyth Hall",
-            "startDate": "2026-07-24",
-            "endDate": null,
-            "startTime": null,
-            "endTime": null,
-            "location": {
-                "fullLocation": "Blyth Hall, Newport on Tay",
-                "venue": "Blyth Hall",
-                "address": "Scott St",
-                "city": "Newport on Tay",
-                "stateProvince": null,
-                "postalCode": "DD5 4DQ",
-                "country": "United Kingdom",
-                "coordinates": {
-                    "latitude": 56.439621,
-                    "longitude": -2.94094
-                }
-            },
-            "organiser": {
-                "name": "donna mitchelson",
-                "email": "donnammitchelson@yahoo.co.uk",
-                "phone": "07840733528"
-            },
-            "urls": {
-                "website": "https://www.toeandheel.com",
-                "registration": "https://www.toeandheel.com/enter_online/2026_tayfirth_july.php",
-                "entryForm": "https://www.toeandheel.com/entry_forms/8022.pdf"
             },
             "eventType": "competition",
             "isOnline": false,
