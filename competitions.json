@@ -1,8 +1,8 @@
 {
     "version": "1.0",
-    "generatedAt": "2026-06-23T19:00:02+00:00",
+    "generatedAt": "2026-06-23T20:00:03+00:00",
     "source": "ToeAndHeel Database",
-    "count": 30,
+    "count": 31,
     "competitions": [
         {
             "id": 8025,
@@ -567,6 +567,44 @@
                 "website": "https://toeandheel.com",
                 "registration": "https://toeandheel.com/enter_online/2026_dunblane_july.php",
                 "entryForm": "https://www.toeandheel.com/entry_forms/8048.pdf"
+            },
+            "eventType": "competition",
+            "isOnline": false,
+            "isFeatured": true,
+            "tier": 1,
+            "source": "ToeAndHeel Database"
+        },
+        {
+            "id": 8049,
+            "title": "An Comunn Gàidhealach - MOD 2026",
+            "description": null,
+            "venueName": "Glasgow Gaelic School",
+            "startDate": "2026-06-13",
+            "endDate": null,
+            "startTime": null,
+            "endTime": null,
+            "location": {
+                "fullLocation": "Glasgow Gaelic School, Glasgow",
+                "venue": "Glasgow Gaelic School",
+                "address": null,
+                "city": "Glasgow",
+                "stateProvince": null,
+                "postalCode": null,
+                "country": "United Kingdom",
+                "coordinates": {
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "organiser": {
+                "name": "Deryck Mitchelson",
+                "email": "thdaentries@gmail.com",
+                "phone": null
+            },
+            "urls": {
+                "website": "https://toeandheel.com",
+                "registration": "https://toeandheel.com/enter_online/2026_mod_oct.php",
+                "entryForm": "https://www.toeandheel.com/entry_forms/8049.pdf"
             },
             "eventType": "competition",
             "isOnline": false,
